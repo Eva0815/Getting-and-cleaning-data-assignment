@@ -14,5 +14,12 @@ The following files included in the repository:
 This R script performs the following steps:
 
 * Download the data and store it locally
-* Read the data 
+* Read the data into R
+* Merge training and test data into one dataset
+* Join labels and activity names
+* Extract only the measures on the mean and standard deviation of the measurements
+* Summarize the data so that the average of each variable for each activity and each subject is obtained
+
+**CodeBook.md**
+This file containes information on the variables in the dataset.
 
