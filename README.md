@@ -21,5 +21,6 @@ This R script performs the following steps:
 * Summarize the data so that the average of each variable for each activity and each subject is obtained
 
 **CodeBook.md**
+
 This file containes information on the variables in the dataset.
 
